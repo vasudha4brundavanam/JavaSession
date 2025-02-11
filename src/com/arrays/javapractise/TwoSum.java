@@ -1,6 +1,6 @@
 package com.arrays.javapractise;
 
-public class TwoSum {
+public class TwoSum1 {
 
 
 
