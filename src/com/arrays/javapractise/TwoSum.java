@@ -1,7 +1,9 @@
 package com.arrays.javapractise;
 
-public class TwoSum1 {
+public class TwoSum
 
+{
 
+// test
 
 }
